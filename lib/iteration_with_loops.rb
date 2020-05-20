@@ -5,4 +5,5 @@ def find_min_in_nested_arrays(src)
   for array in src do
     output << array.min
   end
+  output
 end
